@@ -1,0 +1,7 @@
+fadat
+fdsafas
+fdsafads
+AAAAAAAAAAA
+git status
+git diff
+git diff HEAD
